@@ -1,0 +1,26 @@
+.signUpWrapper{
+    display: flex;
+    justify-content: center;
+}
+.signUpCard{
+     width: 27vw;
+     margin-top: 5%;
+}
+.instaLogo{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 2%;
+}
+.instaLogo img{
+    width: 15vw;
+}
+@media only screen and (max-width: 600px) {
+    .signUpCard{
+        width: 60vw;
+        margin-top: 2%;
+   }
+   .instaLogo img{
+    width: 30vw;
+}
+  }

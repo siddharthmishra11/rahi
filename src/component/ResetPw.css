@@ -1,0 +1,35 @@
+.email-wrapper{
+    margin-top: 1rem;
+    width: 18vw;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+#over{
+    padding-bottom: 0px;
+}
+.Or{
+    display: flex;
+}
+.mid{
+    margin: 16px 6px;
+    font-weight: bold;
+    color: gray;
+}
+hr{
+    display: inline-block;
+    width: 8vw;
+    margin-top: 3.7vh;
+    border: 0;
+    border-block-start: 1px solid gray ;
+    height: 1px;
+}
+.main-card{
+    position: relative;
+    top: 5vh;
+    left: 37vw;
+}
